@@ -1,4 +1,4 @@
-package TestNGListenerConceptFailedScenarioScreenshot;
+ package TestNGListenerConceptFailedScenarioScreenshot;
 
 import java.io.IOException;
 
